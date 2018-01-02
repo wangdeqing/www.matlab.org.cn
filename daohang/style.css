@@ -1,0 +1,62 @@
+body {
+	margin: 0px;
+}
+table {
+	margin: 0px;
+	font-size: 20px;
+	line-height: 14px;
+	text-decoration: none;
+}
+.bg_blue {
+	background-color: #D6EBFC;
+}
+.border_blue {
+	border: 1px solid #9FD0F8;
+	padding: 2px;
+}.title2 {
+	font-family: Arial, "宋体";
+	font-size: 24px;
+	line-height: 30px;
+	color: #000;
+	text-decoration: none;
+	padding-left: 20px;
+}
+.title1 {
+	font-family: Arial, "宋体";
+	font-size: 32px;
+	line-height: 40px;
+	color: #000;
+	text-decoration: none;
+	padding-left: 20px;
+}
+.spacetable {
+	line-height: 20px;
+}
+
+.content {
+	padding-left: 20px;
+}
+a:link {
+	line-height: 30px;
+	text-decoration: underline;
+	color: #00F;
+	font-size: 16px;
+}
+a:visited {
+	line-height: 30px;
+	text-decoration: underline;
+	color: #00F;
+	font-size: 16px;
+}
+a:hover {
+	line-height: 30px;
+	text-decoration: underline;
+	color: #F00;
+	font-size: 16px;
+}
+a:active {
+	line-height: 30px;
+	text-decoration: underline;
+	color: #F00;
+	font-size: 16px;
+}
